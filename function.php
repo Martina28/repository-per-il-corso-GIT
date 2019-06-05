@@ -1,5 +1,6 @@
 <?php
 /*File realizzato appositazione per ile corso di git hub base*/
+/*Vattela a pesca*/
 /*addizione*/
 
 function addizione (n1, n2){
